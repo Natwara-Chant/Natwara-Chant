@@ -1,6 +1,6 @@
 - 👋 Hello, My name is Natwara Chantharamatsakan.
 - 👀 I’m interested in mobile programming, computer security (blockchain, cryptography, computer forensics) and cloud etc.
-- 🌱 I’m currently learning how to develop an Android mobile application and also reading book about blockchain.
+- 🌱 I’m currently learning how to develop an Android mobile application and also reading books about blockchain.
 - 📫 How to reach me: via email Natwara.chant@gmail.com
 
 <!---
